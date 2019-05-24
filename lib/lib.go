@@ -12,6 +12,6 @@ import "C"
 import "fmt"
 
 func DoC() {
-	C.function()
+	//C.function()
 	fmt.Println("called c function")
 }

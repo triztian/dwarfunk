@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
-import "github.com/triztian/dwarfunk/lib"
+import (
+	"fmt"
+
+	"github.com/triztian/dwarfunk/lib"
+)
 
 func main() {
 	lib.DoC()
